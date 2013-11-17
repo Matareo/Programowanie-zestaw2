@@ -72,4 +72,21 @@ return 0;
 }
 
 
+ZAD5
+
+#include <stdio.h>
+int main()
+{
+	int tab[5], i;
+	for(i=0;i<=4;i=i++)
+		{
+			printf("Podaj wartość dla tab[%d]=", i);
+			scanf("%d", &tab[i]);
+}
+for(i=4;i>=0;i=i-1)
+	printf("tab[%d]=%d\n",i, tab[i]);
+
+return 0;
+}
+
 
