@@ -90,5 +90,30 @@ return 0;
 }
 
 
+ZAD6
+
+#include <stdio.h>
+int main()
+{
+    int tab[5], i,suma;
+	for(i=0;i<=4;i=i++)
+		{
+			printf("Podaj wartość dla tab[%d]=", i);
+			scanf("%d", &tab[i]);
+}
+	for(i=4;i>=0;i=i-1){
+	printf("tab[%d]=%d\n",i, tab[i]);
+
+	}
+	{
+suma =tab[0]+tab[1]+tab[2]+tab[3]+tab[4] ;
+ printf ("%d \n", suma);
+ }
+ 
+
+return 0;
+}
+
+
 http://wbzyl.inf.ug.edu.pl/c/budowanie-programow
 od 6 do 9
