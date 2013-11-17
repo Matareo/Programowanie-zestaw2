@@ -91,3 +91,4 @@ return 0;
 
 
 http://wbzyl.inf.ug.edu.pl/c/budowanie-programow
+od 6 do 9
