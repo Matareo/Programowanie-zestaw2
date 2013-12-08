@@ -1,5 +1,4 @@
-
-
+8,9,10
 https://inf.ug.edu.pl/~tdz/C/lab-zadania2wer2.pdf
 
 ZAD1
